@@ -28,12 +28,12 @@
 
 | Category | Icons |
 | --- | --- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,angular,astro,tailwind,vite,vue" draggable="false" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,spring,cpp,cs" draggable="false" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,prisma" draggable="false" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,vercel" draggable="false" /> |
-| **IDEs / Editors** | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,webstorm,rider" draggable="false" /> |
-| **Operating Systems** | <img src="https://skillicons.dev/icons?i=windows,apple,linux" draggable="false" /> |
+| **Frontend** | <a><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,angular,astro,tailwind,vite,vue" /></a> |
+| **Backend** | <a><img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,spring,cpp,cs" /></a> |
+| **Databases** | <a><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,prisma" /></a> |
+| **Tools** | <a><img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,vercel" /></a> |
+| **IDEs / Editors** | <a><img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,webstorm,rider" /></a> |
+| **Operating Systems** | <a><img src="https://skillicons.dev/icons?i=windows,apple,linux" /></a> |
 
 ---
 
@@ -49,11 +49,11 @@
 ## Contact
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/eduardo-chacaliaza-minaya/">
-    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=echacaliazaminaya@gmail.com&su=Contacto%20desde%20GitHub">
+    <img src="https://img.shields.io/badge/Mail-echacaliazaminaya%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" />
   </a>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=echacaliazaminaya@gmail.com&su=Contacto%20desde%20GitHub">
-    <img src="https://img.shields.io/badge/echacaliazaminaya%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/eduardo-chacaliaza-minaya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" />
   </a>
 </p>
