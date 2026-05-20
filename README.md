@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Eduardo Chacaliaza Banner" width="100%" />
+<img src="./assets/banner.png" alt="Eduardo Chacaliaza Banner" width="100%" draggable="false" />
 
 <br/>
 
 [![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Software+Engineering;Full+Stack+Development;Designing+interfaces%2C+systems+and+intelligent+tools;Building+useful+digital+products;Learning%2C+building+and+improving)](https://github.com/educmz)
+
+<p align="center">
+  <a href="URL_DE_TU_PORTAFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -13,8 +19,8 @@
 ## About me
 
 - Software Engineering student passionate about building modern digital products.
-- Interested in frontend, backend, databases, desktop applications and software architecture.
-- Currently exploring scalable systems, UI/UX design and AI integrations through personal projects.
+- Interested in frontend, backend, databases, software architecture and AI integrations.
+- Currently exploring scalable systems, UI/UX design and product-oriented development through personal projects.
 
 ---
 
@@ -22,13 +28,12 @@
 
 | Category | Icons |
 | --- | --- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,angular,astro,tailwind,vite,vue" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,spring" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,prisma" /> |
-| **Desktop** | <img src="https://skillicons.dev/icons?i=electron" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,vercel" /> |
-| **IDEs / Editors** | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,webstorm,rider" /> |
-| **Operating Systems** | <img src="https://skillicons.dev/icons?i=windows,apple,linux" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,angular,astro,tailwind,vite,vue" draggable="false" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,spring,cpp,cs" draggable="false" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,prisma" draggable="false" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,vercel" draggable="false" /> |
+| **IDEs / Editors** | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,webstorm,rider" draggable="false" /> |
+| **Operating Systems** | <img src="https://skillicons.dev/icons?i=windows,apple,linux" draggable="false" /> |
 
 ---
 
@@ -36,7 +41,7 @@
 
 - Building portfolio projects with modern architectures.
 - Learning scalable full stack development patterns.
-- Exploring AI-powered and desktop applications.
+- Exploring AI-powered applications and automation.
 - Improving UI/UX and product-oriented development skills.
 
 ---
@@ -48,7 +53,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:echacaliazaminaya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=echacaliazaminaya@gmail.com&su=Contacto%20desde%20GitHub">
+    <img src="https://img.shields.io/badge/echacaliazaminaya%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
