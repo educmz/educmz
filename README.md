@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Eduardo Chacaliaza Banner" width="100%" />
+<img src="./assets/banner.png" alt="Eduardo Chacaliaza Banner" width="100%" />
 
-[![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&width=620&lines=Hi%2C+I'm+Eduardo+Chacaliaza;Full+Stack+Developer;Building+web%2C+desktop+and+AI-powered+software)](https://github.com/educmz)
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/educmz?label=Follow&style=for-the-badge&color=38BDF8)](https://github.com/educmz)
-[![Profile views](https://komarev.com/ghpvc/?username=educmz&color=38BDF8&style=for-the-badge)](#)
+[![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Software+Engineering;Full+Stack+Development;Designing+interfaces%2C+systems+and+intelligent+tools;Building+useful+digital+products;Learning%2C+building+and+improving)](https://github.com/educmz)
 
 </div>
 
@@ -13,45 +12,43 @@
 
 ## About me
 
-- Software Engineering student focused on full stack development.
-- I build web applications, systems, desktop experiences and AI-powered products.
-- I care about clean architecture, maintainable code and polished user experiences.
+- Software Engineering student passionate about building modern digital products.
+- Interested in frontend, backend, databases, desktop applications and software architecture.
+- Currently exploring scalable systems, UI/UX design and AI integrations through personal projects.
+
+---
 
 ## Languages and tools
 
 | Category | Icons |
 | --- | --- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,angular,astro,tailwind,vite,vue" alt="frontend" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi" alt="backend" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,prisma" alt="databases" /> |
-| **Desktop / AI** | <img src="https://skillicons.dev/icons?i=electron" alt="desktop" /> <img src="https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="openai" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,postman,vscode" alt="tools" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,angular,astro,tailwind,vite,vue" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,spring" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,supabase,prisma" /> |
+| **Desktop** | <img src="https://skillicons.dev/icons?i=electron" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma,docker,postman,vercel" /> |
+| **IDEs / Editors** | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,webstorm,rider" /> |
+| **Operating Systems** | <img src="https://skillicons.dev/icons?i=windows,apple,linux" /> |
 
 ---
 
 ## Current focus
 
-- Building production-ready full stack projects.
-- Exploring AI integrations for productivity and automation.
-- Developing web and desktop applications with modern technologies.
-
----
-
-## Quick stats
-
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=educmz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8)
-
-![streak](https://streak-stats.demolab.com?user=educmz&theme=tokyonight&hide_border=true&background=0D1117)
-
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=educmz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8)
-
-</div>
+- Building portfolio projects with modern architectures.
+- Learning scalable full stack development patterns.
+- Exploring AI-powered and desktop applications.
+- Improving UI/UX and product-oriented development skills.
 
 ---
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-chacaliaza-minaya/)
-[![Mail](https://img.shields.io/badge/Mail-echacaliazaminaya%40gmail.com-38BDF8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:echacaliazaminaya@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/eduardo-chacaliaza-minaya/">
+    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:echacaliazaminaya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
