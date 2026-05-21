@@ -7,7 +7,7 @@
 [![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Software+Engineering;Full+Stack+Development;Designing+interfaces%2C+systems+and+intelligent+tools;Building+useful+digital+products;Learning%2C+building+and+improving)](https://github.com/educmz)
 
 <p align="center">
-  <a href="URL_DE_TU_PORTAFOLIO">
+  <a href="https://portfolio-ruby-three-yxlc988kbc.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
